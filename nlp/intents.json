@@ -13,21 +13,34 @@
       "patterns": [
         "List all breed names",
         "Give all breeds",
+        "list breeds",
+        "get all the breeds",
         "What all different breeds dog available ?"
       ]
     },
     {
       "tag": "get-all-country-names",
       "patterns": [
-        "List country names",
+        "List all country names",
         "Give countries",
+        "Get all the countries",
         "What different countries"
+      ]
+    },
+    {
+      "tag": "get-all-owner-emails",
+      "patterns": [
+        "List all owner emails",
+        "Give all the emails",
+        "List emails",
+        "emails"
       ]
     },
     {
       "tag": "get-owner-by-email",
       "patterns": [
         "Can you find owner name with email",
+        "get owner details by email",
         "Find owner by email",
         "Who is owner with email",
         "Which owner has email"

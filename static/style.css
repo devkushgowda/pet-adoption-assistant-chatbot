@@ -23,8 +23,8 @@ body {
 }
 
 *, html {
-    --primaryGradient: linear-gradient(93.12deg, #0088cc 0.52%, #ff6666 100%);
-    --secondaryGradient: linear-gradient(268.91deg,#0088cc -2.14%, #ff6666 99.69%);
+    --primaryGradient: linear-gradient(93.12deg, #0088cc 0.52%, #6e00c2 100%);
+    --secondaryGradient: linear-gradient(268.91deg,#0088cc -2.14%, #6e00c2 99.69%);
     --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
     --primary: #ffb3b3;
